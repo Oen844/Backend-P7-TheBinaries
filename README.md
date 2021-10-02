@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center"> PRODUCTO 1 THE BIANARIES</h1>
+<h1 align="center"> PRODUCTO 1 THE BINARIES</h1>
 <p align="center"> </p>
 <p align="center"><https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.uoc.edu%2F&psig=AOvVaw1sId4QjhKxHq-VzHqiqRrR&ust=1633302964075000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjMuuztrPMCFQAAAAAdAAAAABAD></p> 
 
