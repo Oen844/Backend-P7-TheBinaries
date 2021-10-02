@@ -8,7 +8,7 @@
 
 ## Tabla de contenidos:
 ---
-- # Descripcion
+- # Descripción
 En este proyecto se programará en un entorno de servidor de aplicaciones web un
 juego de resolución de sopa de letras, donde los jugadores estarán almacenados en
 LDAP y la puntuación se calculará a partir del tiempo de resolución. Las diversas
