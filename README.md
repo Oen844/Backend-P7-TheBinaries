@@ -24,10 +24,3 @@ programa de autenticación de usuarios LDAP.
  - Asier Uruñuela Sánchez
  - Sofia Isabel Figueroa Arocha 
  
-- [Información adicional](#información-adicional)
-- [Licencia](#licencia)
-- [Limitación de responsabilidades - Solo BID](#limitación-de-responsabilidades)
-
-
-
-
