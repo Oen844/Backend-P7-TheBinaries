@@ -2,7 +2,9 @@
 
 
 
-<h1 align="center"> PRODUCTO 1: THE BINARIES</h1>
+<h1 align="center"> THE BINARIES</h1>
+<h2 align="center"> PRODUCTO 1. INSTALACIÓN, CONFIGURACIÓN Y AUTENTICACIÓN.</h1>
+
 <p align="center"> </p>
 <p align="center"><https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.uoc.edu%2F&psig=AOvVaw1sId4QjhKxHq-VzHqiqRrR&ust=1633302964075000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjMuuztrPMCFQAAAAAdAAAAABAD></p> 
 
@@ -14,6 +16,7 @@ juego de resolución de sopa de letras, donde los jugadores estarán almacenados
 LDAP y la puntuación se calculará a partir del tiempo de resolución. Las diversas
 palabras se encontrarán en una base de datos y generarán una sopa de letra con
 palabras aleatorias.
+ 
 Así pues, en este producto se realizarán los primeros pasos para la realización del
 proyecto, la instalación y configuración del entorno necesario para su desarrollo y un
 programa de autenticación de usuarios LDAP.
