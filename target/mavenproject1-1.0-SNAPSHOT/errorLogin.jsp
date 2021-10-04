@@ -17,7 +17,7 @@
       <div class="mouth sad"></div>
     </div>
     <div class="shadow move"></div>
-    <div class="message"><h1 class="alert">Error!</h1><p>Algo ha salido mal</div>
+    <div class="message"><h1 class="alert">Error!</h1><p>Algo ha salido mal!</div>
     <button class="button-box"><h1 class="red"><a href="/mavenproject1">Prueba otra vez</a></h1></button>
   </div>
 
