@@ -42,11 +42,17 @@ public class Login extends HttpServlet {
 			env.put(Context.INITIAL_CONTEXT_FACTORY, "com.sun.jndi.ldap.LdapCtxFactory");
 			env.put(Context.PROVIDER_URL, "ldap://localhost:10389");
                         env.put(Context.SECURITY_AUTHENTICATION, "simple");
-			env.put(Context.SECURITY_PRINCIPAL, "uid="+username+",ou=system");
+			env.put(Context.SECURITY_PRINCIPAL, "cn="+username+", ou=users, ou=system");
 			env.put(Context.SECURITY_CREDENTIALS, password);
 			DirContext con = new InitialDirContext(env);
 			con.close();
 			return true;
+
+			/*
+			env.put(Context.INITIAL_CONTEXT_FACTORY, "com.sun.jndi.ldap.LdapCtxFactory");
+			env.put(Context.PROVIDER_URL, "ldap://localhost:10389");
+			env.put(Context.SECURITY_PRINCIPAL, "cn="+username+",ou=users,o=backends");
+			*/
 		}catch (Exception e) {
 			System.out.println(e.getMessage());
 			return false;
