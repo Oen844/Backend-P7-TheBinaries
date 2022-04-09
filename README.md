@@ -20,6 +20,7 @@ palabras aleatorias.
 Así pues, en este producto se realizarán los primeros pasos para la realización del
 proyecto, la instalación y configuración del entorno necesario para su desarrollo y un
 programa de autenticación de usuarios LDAP.
+
  
  # Autores
  - Francisca María Rodríguez Vázquez
